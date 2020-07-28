@@ -1,0 +1,11 @@
+.view-center {
+    min-height: 80vh;
+}
+
+.About-Image {
+    background: url(../images/thompson.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+}
